@@ -171,7 +171,7 @@ function WelcomePage({ setPageTab }) {
       <div className="container">
       <div className="header">
         <div className="icon">
-          <i className="fa-brands fa-spotify fa-5x" />
+          <img src={"https://mir-s3-cdn-cf.behance.net/projects/404/f08e9e127444097.Y3JvcCw4OTIsNjk4LDI1NCww.jpg"} height="100px" width="100px"></img>
         </div>
       </div>
       <div className="section">
@@ -216,7 +216,7 @@ function WelcomePage({ setPageTab }) {
 }
 
 function MainComp() {
-    const [pageTab, setPageTab] = useState("");
+    const [pageTab, setPageTab] = useState("home");
     const [userId, setUserId] = useState("");
 
     switch (pageTab) {

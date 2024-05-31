@@ -27,8 +27,7 @@ header
     background: #000000;
     margin-top: 80px;
    }
-.song-box1,.song-box2,.song-box3,.song-box4,.song-box5,.song-box6,.song-box7,.song-box8,.song-box9,.song-box10,.song-box11,.song-box12,.song-box13
-{
+.song-box {
     height: 80px;
 width:90vw;
 display: flex;
@@ -44,8 +43,7 @@ background-color: #242424;
     
     
 
-.card-6,.card-7,.card-8,.card-9,.card-10,.card-11,.card-12,.card-13
-{
+.card {
     height: 60px;
     width: 60px;
     /* background-image: url(images.jpg); */
