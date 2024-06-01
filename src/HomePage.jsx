@@ -9,6 +9,11 @@ function HomePage() {
     { id: 3, title: 'Song 3', src: 'song4.mp3', artist: 'Artist 3' },
     { id: 4, title: 'Song 3', src: 'song5.mp3', artist: 'Artist 3' },
     { id: 5, title: 'Song 3', src: 'song6.mp3', artist: 'Artist 3' },
+    { id: 5, title: 'Song 3', src: 'song6.mp3', artist: 'Artist 3' },
+    { id: 5, title: 'Song 3', src: 'song6.mp3', artist: 'Artist 3' },
+    { id: 5, title: 'Song 3', src: 'song6.mp3', artist: 'Artist 3' },
+    { id: 5, title: 'Song 3', src: 'song6.mp3', artist: 'Artist 3' },
+    { id: 5, title: 'Song 3', src: 'song6.mp3', artist: 'Artist 3' },
     // Add more songs as needed
   ]);
 
